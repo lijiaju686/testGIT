@@ -1,5 +1,5 @@
 interface inter props {
 Swiper：1000111，
 numver：2000，
-name:‘李佳驹’
+name:‘乔晶晶’
 }
